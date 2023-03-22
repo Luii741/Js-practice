@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>What Can JavaScript Do?</h2>
+
+<p id="demo">Hii mambo imeeenda bana</p>
+
+<button type="button" onclick='document.getElementById("demo").innerHTML = "Imeenda aki!"'>Click Me!</button>
+
+</body>
+</html>
